@@ -1,0 +1,12 @@
+ID DA PLANILHA: 11pQaec-N9uy6eJ2K7mA0wEDGSSijUWC1nTGCOU4uZbQ
+
+App api_id: 13405538
+
+App api_hash: 067fa57bd6cb7155c5127585d093fa4c
+
+------
+
+bot_chatID = 1107284827
+
+bot_token = '5399794246:AAGm7LNApb7tMOBVANqWNF34ZSmRm9mDS1w'
+
